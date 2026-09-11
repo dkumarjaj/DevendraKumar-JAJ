@@ -1,89 +1,184 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+
+# 👋 Hey, I'm Devendra
+
+### `Engineering Student` • `Software Engineer` • `Creator` • `Teacher`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ideas+into+working+software+%F0%9F%92%BB;Learning%2C+teaching%2C+creating+%F0%9F%9A%80;Code+%2B+Creativity+%2B+Curiosity+%F0%9F%8E%A8;Always+one+more+improvement...+%F0%9F%98%AD" alt="Typing animation" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=Followers)](https://github.com/YOUR_GITHUB_USERNAME)
+
 </div>
 
-###
+---
 
-<h2 align="center">I'm Devendra ,  Devendra Kumar 😊</h2>
+## 🧑‍💻 About Me
 
-###
+I'm an **engineering student and software engineer** who enjoys turning ideas into useful things.
 
-<h3 align="left">About Me !🎶</h3>
+I like working at the intersection of **software, education, design, and creativity**.  
+My favorite part of building something isn't just making it work — it's making it **simple, useful, and better than the first version**.
 
-###
+```text
+┌──────────────────────────────────────────────────────────┐
+│  🧠 Learn        → understand how things work            │
+│  💻 Build        → turn ideas into software              │
+│  🎨 Create       → make things clear & beautiful         │
+│  👨‍🏫 Teach       → share what I learn                    │
+│  📸 Capture      → photography & visual storytelling     │
+│  🎵 Listen       → music, ideas & inspiration             │
+│  🔁 Improve      → repeat until it feels right           │
+└──────────────────────────────────────────────────────────┘
+```
 
-<p align="left">As I near the end of my BCA studies 📚, <br>   I'm really looking forward to diving into the tech industry as a Full Stack Developer 💻. <br>I'm excited about the prospect of working with a company that shares my enthusiasm for innovation 💡 and creativity 🎨. With a solid foundation in web development 💸, I'm eager to get hands-on experience working on projects that'll challenge me 🚀 and help me grow as a developer 📈.</p>
+---
 
-###
+## ⚡ What I Do
 
-<h3 align="left">Skills :</h3>
+| Area | What I enjoy |
+|---|---|
+| 💻 **Software Engineering** | Building web apps, APIs, backend systems & useful tools |
+| 🧠 **Learning** | Exploring new technologies and understanding the “why” behind them |
+| 👨‍🏫 **Teaching** | Explaining concepts and creating educational material |
+| 🎨 **Creative Work** | Designing clean visuals, documents, layouts and digital content |
+| 📸 **Photography** | Capturing places, moments and visual stories |
+| 🎵 **Music** | Listening to music and using it as creative fuel |
 
-###
+---
 
-<h5 align="left">FullStack | API Design and Development | Problem-solving and debugging |</h5>
-
-###
-
-<h6 align="left">- Adaptability and continuous learning</h6>
-
-###
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-</div>
-
-###
+## 🛠️ Tech I Like Working With
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="whatsapp logo"  />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,git,github,vscode&perline=7" />
+
 </div>
 
+> My stack keeps evolving. I'm more interested in **understanding technology deeply** than collecting badges.
 
+---
 
-###
+## 🚀 Currently Building My Next Version
 
-<h6 align="left">😄 Pronouns: He/Him</h6>
+```javascript
+const devendra = {
+  role: ["Engineering Student", "Software Engineer", "Teacher", "Creator"],
 
-###
+  interests: [
+    "Software Development",
+    "Web Technologies",
+    "Backend Engineering",
+    "Education",
+    "Photography",
+    "Music",
+    "Creative Design"
+  ],
 
-<p align="left">🙃I think that learning and sharing knowledge is key to growth, and I'm always looking for ways to improve and contribute.</p>
+  mindset: {
+    learn: true,
+    build: true,
+    teach: true,
+    create: true,
+    improve: true
+  },
 
-###
+  currentMission:
+    "Turn curiosity into skills, and skills into things that matter."
+};
+```
 
-<p align="left">💻My motto ->  Learn Deeply 📚, Serve Wholeheartedly ❤, Grow Continuously</p>
+---
 
-###
+## 🎯 My Philosophy
+
+> **Don't just use technology. Understand it. Build with it. Teach it. Improve it.**
+
+I believe small projects, experiments, bugs, failed attempts and random ideas all add up.
+
+**Still learning. Still building. Still becoming.** 🚀
+
+---
+
+## 📊 GitHub Journey
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevendraKumar-JAJ.DevendraKumar-JAJ&left_color=teal&right_color=tomato&left_text=Loves%20%F0%9F%92%95"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" />
+
 </div>
 
-###
+---
 
+## 🐍 Contribution Activity
 
+<div align="center">
+
+<!-- Requires the GitHub Actions workflow described below -->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🎨 Beyond Code
+
+Coding is a big part of what I do, but it isn't the whole story.
+
+**📸 Photography** — finding interesting frames in ordinary places.  
+**🎵 Music** — a constant source of mood and inspiration.  
+**👨‍🏫 Teaching** — turning complicated ideas into understandable ones.  
+**🎨 Design** — making information easier and more enjoyable to experience.
+
+```text
+             CODE
+              │
+              ▼
+        ┌───────────┐
+        │  CREATE   │
+        └─────┬─────┘
+              │
+       ┌──────┼──────┐
+       ▼      ▼      ▼
+    TEACH   DESIGN  CAPTURE
+       │      │      │
+       └──────┼──────┘
+              ▼
+           IMPROVE
+              │
+              └──────↻
+```
+
+---
+
+## 💡 A Little More About Me
+
+- 🔍 I like understanding **how things actually work**.
+- 🧩 I enjoy solving problems that initially look confusing.
+- 🛠️ I learn best by **building real things**.
+- 👨‍🏫 I enjoy sharing knowledge and making difficult topics easier.
+- 🎨 I have a creative side that goes beyond programming.
+- 📸 Photography gives me a different way to observe the world.
+- 🎵 Music is part of my everyday creative space.
+- 🚀 I'm always looking for the next thing worth building.
+
+---
+
+<div align="center">
+
+### 🌌 One line that describes my journey
+
+**`Curiosity → Learning → Building → Teaching → Creating → Improving → Repeat`**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
